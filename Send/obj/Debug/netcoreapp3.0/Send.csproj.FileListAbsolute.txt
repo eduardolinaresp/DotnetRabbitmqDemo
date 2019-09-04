@@ -1,0 +1,14 @@
+C:\Users\ELINARES\Desktop\demo\Send\obj\Debug\netcoreapp3.0\Send.csprojAssemblyReference.cache
+C:\Users\ELINARES\Desktop\demo\Send\obj\Debug\netcoreapp3.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\ELINARES\Desktop\demo\Send\obj\Debug\netcoreapp3.0\Send.AssemblyInfoInputs.cache
+C:\Users\ELINARES\Desktop\demo\Send\obj\Debug\netcoreapp3.0\Send.AssemblyInfo.cs
+C:\Users\ELINARES\Desktop\demo\Send\bin\Debug\netcoreapp3.0\Send.exe
+C:\Users\ELINARES\Desktop\demo\Send\bin\Debug\netcoreapp3.0\Send.deps.json
+C:\Users\ELINARES\Desktop\demo\Send\bin\Debug\netcoreapp3.0\Send.runtimeconfig.json
+C:\Users\ELINARES\Desktop\demo\Send\bin\Debug\netcoreapp3.0\Send.runtimeconfig.dev.json
+C:\Users\ELINARES\Desktop\demo\Send\bin\Debug\netcoreapp3.0\Send.dll
+C:\Users\ELINARES\Desktop\demo\Send\bin\Debug\netcoreapp3.0\Send.pdb
+C:\Users\ELINARES\Desktop\demo\Send\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\ELINARES\Desktop\demo\Send\obj\Debug\netcoreapp3.0\Send.csproj.CopyComplete
+C:\Users\ELINARES\Desktop\demo\Send\obj\Debug\netcoreapp3.0\Send.dll
+C:\Users\ELINARES\Desktop\demo\Send\obj\Debug\netcoreapp3.0\Send.pdb
